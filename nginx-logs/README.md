@@ -20,5 +20,5 @@ bash nginx-analyser.sh access.log
 ## Requisitos
 - Formato de log "combined" estándar de nginx
 
-![Ejemplo de salida del script](nginx-logs/result.png)
+![Ejemplo de salida del script](result.png)
 *Ejemplo de salida del script*
