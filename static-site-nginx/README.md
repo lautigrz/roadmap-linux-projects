@@ -133,4 +133,4 @@ Las claves SSH privadas (incluida `id_ed25519_wsl`, generada específicamente pa
 
 ## La web en cuestión siendo accedida desde http://192.168.0.80
 
-![Web](static-site-nginx/web.png)
+![Web](web.png)
