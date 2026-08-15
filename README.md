@@ -7,3 +7,4 @@ Proyectos realizados como parte de la práctica de desarrollo y aprendizaje util
 * [Server Performance Stats](https://roadmap.sh/projects/server-stats) — Script CLI para analizar estadísticas básicas de rendimiento de un servidor.
 * [Nginx Log Analyser](https://roadmap.sh/projects/nginx-log-analyser) - Script en Bash/AWK para analizar logs de nginx (IPs, paths, status codes, user agents)
 * [SSH Remote](https://roadmap.sh/projects/ssh-remote-server-setup) - Configuracion para conectarse mediante SSH a un servidor externo)
+* [Static Site Server](https://roadmap.sh/projects/static-site-server) - Sitio Web Estático con Nginx y Deploy vía rsync
