@@ -2,7 +2,10 @@
 
 Proyecto de un servicio Node.js dockerizado, publicado en **Amazon ECR** y desplegado automáticamente en una instancia **EC2** mediante **GitHub Actions**.
 
-El proyecto implementa un flujo básico de **CI/CD**:
+Ver el papeline en el [Repositorio](https://github.com/lautigrz/dockerized-service) independiente
+
+El proyecto implementa un flujo básico 
+
 
 ```text
 GitHub
