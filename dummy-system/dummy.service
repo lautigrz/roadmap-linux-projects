@@ -1,0 +1,10 @@
+[Unit]
+Description=Creacion de prueba de servicio
+
+[Service]
+WorkingDirectory=/home/lautaro_gerez
+ExecStart=/home/lautaro_gerez/dummy.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
